@@ -1,0 +1,15 @@
+salary_app_groovy/
+├── app.groovy          # Главный файл приложения
+├── templates/          # Шаблоны страниц
+│   ├── layout.gtpl
+│   ├── index.gtpl
+│   ├── workers.gtpl
+│   ├── payroll.gtpl
+│   ├── departments.gtpl
+│   └── logs.gtpl
+├── static/             # Статические файлы
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+└── salary.db           # Ваша база данных
